@@ -1,7 +1,5 @@
 ## Ссылки ##
-
 * [Скачать русификатор](https://github.com/Abbysssal/SoR-Rus/releases)
-
 * [Старое руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1524729853)
 
 # Русификатор Streets of Rogue
