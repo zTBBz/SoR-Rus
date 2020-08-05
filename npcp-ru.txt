@@ -1,0 +1,232 @@
+NoBosses[NPCP]
+`Без боссов [NPC Prefixes]`
+`NPC с боссовыми префиксами не будут появляться.`
+
+BossRush[NPCP]
+`Босс-раш [NPC Prefixes]`
+`NPC с боссовыми префиксами появляются на каждом этаже.`
+
+CM[NPCP]
+`Режим испытания [NPC Prefixes]`
+`ИИ врагов улучшен и у некоторых боссовых префиксов скорость немного выше. NPC с боссовыми префиксами блокируют лифт с уровня.`
+
+RS[NPCP]
+`Реликвенная песочница [NPC Prefixes]`
+`Начинает игру с предметом, который спавнит каждую реликвию из NPC Prefixes.`
+
+Purified[NPCP] (StatusEffect)
+[orig] Adversary purified.
+
+IncreaseSentience[NPCP] (StatusEffect)
+[orig] Killer Robot Sentience
+
+Scared[NPCP] (StatusEffect)
+[orig] Scared
+[orig] Randomly become confused and paralyzed
+
+ShockShield[NPCP] (StatusEffect)
+[orig] Shock Shield
+[orig] Electrocute melee attackers. Electrocution heals you
+
+Toughened[NPCP] (StatusEffect)
+[orig] Toughened
+[orig] Incoming damage is reduced
+
+MegaRegen[NPCP] (StatusEffect)
+[orig] Mega Regeneration
+[orig] Health greatly increases every second
+
+Agile[NPCP] (StatusEffect)
+[orig] Agile
+[orig] Increased movement and melee speed
+
+Sick[NPCP] (StatusEffect)
+[orig] Sick
+[orig] Reduced movement and melee speed. Fist attacks inflict poison
+
+BossImmunity[NPCP] (StatusEffect)
+[orig] Grand Immunity
+[orig] Immune to severe status effects. Cannot fall down into the void. Ghosts cannot damage you
+
+ExplosionParasite[NPCP] (StatusEffect)
+[orig] Parasite Infection
+[orig] Explodes when worn off. Nullified underwater
+
+HealthParasite[NPCP] (StatusEffect)
+[orig] Parasite Infection
+[orig] Health decreases every second. Nullified underwater
+
+WeakParasite[NPCP] (StatusEffect)
+[orig] Parasite Infection
+[orig] Reduced movement speed, melee speed, and melee damage. Nullified underwater
+
+HeavyHitter[NPCP] (StatusEffect)
+[orig] Heavy Hitter
+[orig] Melee attacks can inflict Crazy Dizzy
+
+Purification[NPCP] (StatusEffect)
+[orig] Purification in progress...
+[orig] Your baseball bats deal 500% more damage
+
+Chilled[NPCP] (StatusEffect)
+[orig] Chilled
+[orig] Reduced movement speed
+
+RelicMerchant[NPCP] (Agent)
+[orig] Relic Merchant
+
+LaztRule[NPCP] (Agent)
+[orig] NPCP Rule Setter
+
+Collapsed[NPCP] (Agent)
+[orig] Collapsed Ruler
+
+Batter[NPCP] (Agent)
+[orig] Corrupt Janitor
+
+NA__FailedFollowerIncrease[NPCP]
+[orig] I don't have any followers to use that for.
+
+MultMsg_MerchantSpawned[NPCP]
+[orig] A Relic Merchant has arrived at the entrance elevator!
+
+FailedNearbyCheck[NPCP] (Dialogue)
+[orig] There is no one nearby to use that for.
+
+FailedCheck[NPCP] (Dialogue)
+[orig] There is no one to use that for.
+
+FailedCoding[NPCP]
+[orig] NPC Prefixes messed up. Frick. [Error Message!]
+
+ShockerMelee-Relic[NPCP]
+[orig] Shock Attacks
+[orig] Your melee attacks sometimes shoot 7 bolts of electricity. [+3 bolts per extra stack]
+
+MeleeSpeed-Relic[NPCP]
+[orig] Rogue Rush
+[orig] Increases your melee attack speed by 50%. [+20% melee speed per extra stack]
+
+BossKey[NPCP]
+[orig] Boss Key
+[orig] Used to open locked elevators. This is destroyed on the next floor.
+
+DoublePistol-Relic[NPCP]
+[orig] Twin Pistol
+[orig] Your pistols shoot another bullet.
+
+BananaSlip-Relic[NPCP]
+[orig] Potassium Slip
+[orig] Your banana peels paralyze their victims.
+
+ResterHeal-Relic[NPCP]
+[orig] Elevator Rest
+[orig] Heal to max health after 10 seconds in a new floor.
+
+HeroSword-Relic[NPCP]
+[orig] Max Sword
+[orig] Your swords deal 150% more damage while you are at max health. [+50% damage per extra stack]
+
+PureBat-Relic[NPCP]
+[orig] Sacred Mission
+[orig] Your baseball bats do not lose durability. 20% chance to enter a state of purification with each baseball bat hit. [+7 seconds of purification per stack]
+
+MageAura-Relic[NPCP]
+[orig] Mage Aura
+[orig] Inflict 'Chilled' to nearby hostiles. [2x range per extra stack]
+
+Swapper-Relic[NPCP]
+[orig] Code: Circus
+[orig] Use this to swap positions with the closest nearby person. [22 second cooldown]
+
+TranqThrice-Relic[NPCP]
+[orig] Office Sleep
+[orig] Your tranquilizer guns shoot extra darts. [+2 darts per stack]
+
+EnduranceIncreaser-Relic[NPCP]
+[orig] Encouragement
+[orig] Use this to give your current followers +7 Endurance.
+
+AccuracyIncreaser-Relic[NPCP]
+[orig] Clearance
+[orig] Use this to give your current followers +3 Firearms.
+
+MeleeIncreaser-Relic[NPCP]
+[orig] Practice
+[orig] Use this to give your current followers +3 Melee.
+
+SentienceIncreaser-Relic[NPCP]
+[orig] Sentience
+[orig] Use this to give your current followers the combat skills of a Killer Robot.
+
+RelicSpawner-Relic[NPCP]
+[orig] Relic Spawner
+[orig] Use this to spawn every relic item from NPC Prefixes.
+
+FloorSyringe-Relic[NPCP]
+[orig] Daily Dose
+[orig] Spawn 2 syringes after 10 seconds in a new floor. [+1 syringe per extra stack]
+
+InvisRush-Relic[NPCP]
+[orig] Invis Rush
+[orig] Move 40% faster while you are invisible. [+20% speed per extra stack]
+
+GrassRun-Relic[NPCP]
+[orig] Natural Habitat
+[orig] Move 80% faster on grass. Deal 90% more fist damage while on grass. [+40% grass speed and +30% grass fist damage per extra stack]
+
+FloorShovel-Relic[NPCP]
+[orig] Grave Robber
+[orig] Spawn a 150% shovel after 10 seconds in a new floor. [+100% durability per extra stack]
+
+BagLooter-Relic[NPCP]
+[orig] Mad God
+[orig] High-rarity prefix NPCs may drop special loot bags on death. Only applies to those that you have killed directly. [+1 possible loot bag per extra stack]
+
+BrownBag-Relic[NPCP]
+[orig] Brown Bag
+[orig] May spawn a low-tier item on use.
+
+PinkBag-Relic[NPCP]
+[orig] Pink Bag
+[orig] May spawn a medium-tier item on use.
+
+PurpleBag-Relic[NPCP]
+[orig] Purple Bag
+[orig] May spawn a high-tier item on use.
+
+WhiteBag-Relic[NPCP]
+[orig] White Bag
+[orig] May spawn a random relic on use.
+
+ItemError[NPCP]
+[orig] Error from NPC Prefixes
+[orig] You're not supposed to get this!
+
+Scary-Relic[NPCP]
+[orig] Code: Intimidate
+[orig] Use this to inflict 'Scared' to nearby NPCs. [60 second cooldown]
+
+SolarPower-Relic[NPCP]
+[orig] Solar Power
+[orig] Your fires deal 80% more damage.
+
+WanderShark-Relic[NPCP]
+[orig] Rubber Shark
+[orig] Move 100% faster underwater.
+
+VirusGiver-Relic[NPCP]
+[orig] Disease Infested
+[orig] Your melee and ranged attacks infect your target with an explosive parasite.
+
+Medusa-Relic[NPCP]
+[orig] Code: Medusa
+[orig] Use this to freeze anyone that is looking at you. [30 second cooldown]
+
+CrazyBuffer-Relic[NPCP]
+[orig] Power
+[orig] Use this to give you and your current followers 'Invincible', 'Strength', 'Accurate', and 'Fast'.
+
+TeamHeal-Relic[NPCP]
+[orig] Affection
+[orig] Use this to have your current followers heal you for 20 health each. Also heals your current followers for 50 health.
