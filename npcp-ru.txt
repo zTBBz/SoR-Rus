@@ -21,212 +21,212 @@ IncreaseSentience[NPCP] (StatusEffect)
 [orig] Killer Robot Sentience
 
 Scared[NPCP] (StatusEffect)
-[orig] Scared
-[orig] Randomly become confused and paralyzed
+`Напуганный
+`Получает смятение и паралич. 
 
 ShockShield[NPCP] (StatusEffect)
-[orig] Shock Shield
-[orig] Electrocute melee attackers. Electrocution heals you
+`Электро-щит
+`Рукопашные удары сопровождаются ударом тока. Электрический ток лечит вас.
 
 Toughened[NPCP] (StatusEffect)
-[orig] Toughened
-[orig] Incoming damage is reduced
+`Закалённый
+`Входящий урон уменьшен.
 
 MegaRegen[NPCP] (StatusEffect)
-[orig] Mega Regeneration
-[orig] Health greatly increases every second
+`Супер регенерация
+`Здоровье растёт на глазах.
 
 Agile[NPCP] (StatusEffect)
-[orig] Agile
-[orig] Increased movement and melee speed
+`Проворный
+`Увеличенная скорость передвижения и ближнего боя.
 
 Sick[NPCP] (StatusEffect)
-[orig] Sick
-[orig] Reduced movement and melee speed. Fist attacks inflict poison
+`Больной
+`Скорость передвижения и ближнего боя уменьшены. Удары кулаками отравляют.
 
 BossImmunity[NPCP] (StatusEffect)
-[orig] Grand Immunity
-[orig] Immune to severe status effects. Cannot fall down into the void. Ghosts cannot damage you
+`Сильный иммунитет
+`Иммунитет к тяжёлым статусным эфектам. Неможет упасть в пустоту. Призраки не наносят урон.
 
 ExplosionParasite[NPCP] (StatusEffect)
-[orig] Parasite Infection
-[orig] Explodes when worn off. Nullified underwater
+`Тротиловые паразиты
+`Взрываеться когда излечивается. Неработает в воде.
 
 HealthParasite[NPCP] (StatusEffect)
-[orig] Parasite Infection
-[orig] Health decreases every second. Nullified underwater
+`Подкожные паразиты
+`Здоровье уменьшает с каждой секундой. Неработает в воде.
 
 WeakParasite[NPCP] (StatusEffect)
-[orig] Parasite Infection
-[orig] Reduced movement speed, melee speed, and melee damage. Nullified underwater
+`Мышечные паразиты
+`Уменьшает скорость передвижения, скорость рукопашной атаки, и урон в рукопашной. Неработает в воде.
 
 HeavyHitter[NPCP] (StatusEffect)
 [orig] Heavy Hitter
 [orig] Melee attacks can inflict Crazy Dizzy
 
 Purification[NPCP] (StatusEffect)
-[orig] Purification in progress...
-[orig] Your baseball bats deal 500% more damage
+`Очистка в процессе..
+`Бейсбольные биты наносят на 500% больше урона.
 
 Chilled[NPCP] (StatusEffect)
-[orig] Chilled
-[orig] Reduced movement speed
+`Продрогший
+`Скорость передвижения уменьшена.
 
 RelicMerchant[NPCP] (Agent)
-[orig] Relic Merchant
+`Торговец реликвиями
 
 LaztRule[NPCP] (Agent)
-[orig] NPCP Rule Setter
+`NPCP Устанавливатель Правил
 
 Collapsed[NPCP] (Agent)
-[orig] Collapsed Ruler
+`Свергнутый правитель
 
 Batter[NPCP] (Agent)
-[orig] Corrupt Janitor
+`Коррумпированный сторож
 
 NA__FailedFollowerIncrease[NPCP]
-[orig] I don't have any followers to use that for.
+`У меня нет последователей чтобы использовать это.
 
 MultMsg_MerchantSpawned[NPCP]
-[orig] A Relic Merchant has arrived at the entrance elevator!
+`Торговец реликвиями прибыл к входному лифту.
 
 FailedNearbyCheck[NPCP] (Dialogue)
-[orig] There is no one nearby to use that for.
+`Поблизости нет никого, чтобы это можно было бы использовать.
 
 FailedCheck[NPCP] (Dialogue)
 [orig] There is no one to use that for.
 
 FailedCoding[NPCP]
-[orig] NPC Prefixes messed up. Frick. [Error Message!]
+`Префиксы НПС сломались. Фрик. [Ошибка!]
 
 ShockerMelee-Relic[NPCP]
-[orig] Shock Attacks
-[orig] Your melee attacks sometimes shoot 7 bolts of electricity. [+3 bolts per extra stack]
+`Шоковые атаки
+`Твои рукопашные атаки иногда дополнительно выстреливают 7 электрическими болтами. [+3 болта за доп. стак]
 
 MeleeSpeed-Relic[NPCP]
-[orig] Rogue Rush
-[orig] Increases your melee attack speed by 50%. [+20% melee speed per extra stack]
+`Воровской бросок
+`Увеличивает скорость атаки в ближнем бою на 50%. [+20% скорости ближнего боя за доп. стак]
 
 BossKey[NPCP]
-[orig] Boss Key
-[orig] Used to open locked elevators. This is destroyed on the next floor.
+`Ключ босса
+`Используется для разблокировки лифта. Самоуничтожается на следующем этаже.
 
 DoublePistol-Relic[NPCP]
-[orig] Twin Pistol
-[orig] Your pistols shoot another bullet.
+`Сдвоенный пистолет
+`Твой пистолет выстреливает ещё одну пулю.
 
 BananaSlip-Relic[NPCP]
 [orig] Potassium Slip
 [orig] Your banana peels paralyze their victims.
 
 ResterHeal-Relic[NPCP]
-[orig] Elevator Rest
-[orig] Heal to max health after 10 seconds in a new floor.
+`Лифтовой отдых
+`Восстанавливает полностью хп через 10 секунд на новом этаже.
 
 HeroSword-Relic[NPCP]
 [orig] Max Sword
 [orig] Your swords deal 150% more damage while you are at max health. [+50% damage per extra stack]
 
 PureBat-Relic[NPCP]
-[orig] Sacred Mission
-[orig] Your baseball bats do not lose durability. 20% chance to enter a state of purification with each baseball bat hit. [+7 seconds of purification per stack]
+`Священная миссия
+`Ваши бейсбольные биты не теряют прочности. 20% шанс войти в состояние очищения с каждым ударом бейсбольной битой.[+7 секунд очищение за доп. стак]
 
 MageAura-Relic[NPCP]
-[orig] Mage Aura
-[orig] Inflict 'Chilled' to nearby hostiles. [2x range per extra stack]
+`Магическая аура
+`Охладите ближайщих противников. [2x радиуса за доп.стак]
 
 Swapper-Relic[NPCP]
-[orig] Code: Circus
-[orig] Use this to swap positions with the closest nearby person. [22 second cooldown]
+`Код: Круг обмена местами
+`Используйте это чтобы поменяться позициями с ближайщим НПС. [откат 22 секунды]
 
 TranqThrice-Relic[NPCP]
-[orig] Office Sleep
-[orig] Your tranquilizer guns shoot extra darts. [+2 darts per stack]
+`Управляющий снами
+`Ваше трансквилизатор выстреливает доп. дротики. [+2 дротика за стак]
 
 EnduranceIncreaser-Relic[NPCP]
-[orig] Encouragement
-[orig] Use this to give your current followers +7 Endurance.
+`Бугай
+`Используйте это чтобы дать вашим последователям +7 к выносливости.
 
 AccuracyIncreaser-Relic[NPCP]
-[orig] Clearance
-[orig] Use this to give your current followers +3 Firearms.
+`Киллер
+`Используйте чтобы дать вашим последователям +3 к стрельбе.
 
 MeleeIncreaser-Relic[NPCP]
-[orig] Practice
-[orig] Use this to give your current followers +3 Melee.
+`Мастер фехтования
+`Используйте это чтобы дать вашим последователям +3 к рукопашному бою.
 
 SentienceIncreaser-Relic[NPCP]
-[orig] Sentience
-[orig] Use this to give your current followers the combat skills of a Killer Robot.
+`Терминатор
+`Используйте это чтобы дать вашим последователям боевые навыки Робота убицы.
 
 RelicSpawner-Relic[NPCP]
-[orig] Relic Spawner
-[orig] Use this to spawn every relic item from NPC Prefixes.
+`Спавнер реликвий
+`Используйте это чтобы заспавнить каждую реликвию из NPC Prefixes.
 
 FloorSyringe-Relic[NPCP]
-[orig] Daily Dose
-[orig] Spawn 2 syringes after 10 seconds in a new floor. [+1 syringe per extra stack]
+`Дневная доза
+`Спавнит 2 шприца через 10 секунл на следующем этаже. [+1 шприц за доп. стак]
 
 InvisRush-Relic[NPCP]
-[orig] Invis Rush
-[orig] Move 40% faster while you are invisible. [+20% speed per extra stack]
+`Теневая спешка
+`Двигайтесь на 40% быстрее когда вы невидимы. [+20% к скорости за доп. стак]
 
 GrassRun-Relic[NPCP]
-[orig] Natural Habitat
-[orig] Move 80% faster on grass. Deal 90% more fist damage while on grass. [+40% grass speed and +30% grass fist damage per extra stack]
+`Естественная среда обитания
+`Двигайте на 80% быстрее по траве. Нанесите на 90% больше урона кулаком, находясь на траве. [+40% скорости по траве и +30% урона кулаком на траве за доп. стак]
 
 FloorShovel-Relic[NPCP]
-[orig] Grave Robber
-[orig] Spawn a 150% shovel after 10 seconds in a new floor. [+100% durability per extra stack]
+`Расхититель гробниц
+`Спавнит лопату с 150% прочностью через 10 секунд на следующем этаже. [+100% к прочности за доп. стак]
 
 BagLooter-Relic[NPCP]
-[orig] Mad God
-[orig] High-rarity prefix NPCs may drop special loot bags on death. Only applies to those that you have killed directly. [+1 possible loot bag per extra stack]
+`Безумный Бог
+`Реликвия высокой редкости. После убийства на трупе появляется специальный лут. Работает только с теми кого убили именно вы. [+1 к пасивному появлению лута за доп. стак]
 
 BrownBag-Relic[NPCP]
-[orig] Brown Bag
-[orig] May spawn a low-tier item on use.
+`Коричневая сумка
+`Может сотворить предмет низкого тира при использование.
 
 PinkBag-Relic[NPCP]
-[orig] Pink Bag
-[orig] May spawn a medium-tier item on use.
+`Розовая сумка
+`Может сотворить предмет среднего тира при использование.
 
 PurpleBag-Relic[NPCP]
-[orig] Purple Bag
-[orig] May spawn a high-tier item on use.
+`Фиолетовая сумка
+`Может сотворить предмет выского тира при использование.
 
 WhiteBag-Relic[NPCP]
-[orig] White Bag
-[orig] May spawn a random relic on use.
+`Белая сумка
+`Может сотворить рандомную реликвию при использование.
 
 ItemError[NPCP]
-[orig] Error from NPC Prefixes
-[orig] You're not supposed to get this!
+`Ошибка связанная с предметом NPC Prefixes
+`Ты не должен был рассчитывать на это!
 
 Scary-Relic[NPCP]
-[orig] Code: Intimidate
-[orig] Use this to inflict 'Scared' to nearby NPCs. [60 second cooldown]
+`Код: Испуг
+`Используйте чтобы испугать окружающих НПС. [откат 60 секунд]
 
 SolarPower-Relic[NPCP]
-[orig] Solar Power
-[orig] Your fires deal 80% more damage.
+`Солнечная энергия
+`Пожары от ваших рук наносят на 80% больше урона.
 
 WanderShark-Relic[NPCP]
-[orig] Rubber Shark
-[orig] Move 100% faster underwater.
+`Резиновая акула
+`Передвигайтесь на 100% быстрее под водой.
 
 VirusGiver-Relic[NPCP]
-[orig] Disease Infested
-[orig] Your melee and ranged attacks infect your target with an explosive parasite.
+`Заражённый
+`Ваши рукопашные и дальние атаки заражают вашу цель тротиловым паразитом.
 
 Medusa-Relic[NPCP]
-[orig] Code: Medusa
-[orig] Use this to freeze anyone that is looking at you. [30 second cooldown]
+`Код: Медуза Гаргона
+`Используйте это чтобы заморозить всех кто смотрит на вас. [откат 30 секунд]
 
 CrazyBuffer-Relic[NPCP]
-[orig] Power
-[orig] Use this to give you and your current followers 'Invincible', 'Strength', 'Accurate', and 'Fast'.
+`Сила
+`Используйте это, чтобы дать вам и вашим НЫНЕШНИМ последователям невидимость, силу, точность и скорость.
 
 TeamHeal-Relic[NPCP]
-[orig] Affection
-[orig] Use this to have your current followers heal you for 20 health each. Also heals your current followers for 50 health.
+`Привязанность
+`Используйте это, чтобы ваши НЫНЕШНИЕ последователи исцелили вас на 20 здоровья с каждого. Также лечит ваших НЫНЕШНИХ последователей на 50 здоровья.
